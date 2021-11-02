@@ -1,5 +1,5 @@
 # React-Wildfire-Tracker
-Nasa OpenAPI (https://api.nasa.gov/) used to track wildfires with Google Maps API.  Allows a user to look at reported wildfire incidents across the world. 
+NASA OpenAPI (https://api.nasa.gov/) used to track wildfires with Google Maps API.  Allows a user to look at reported wildfire incidents across the world. 
 React.js, React Hooks, and HTML/CSS used for styling.
 
 
